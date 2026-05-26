@@ -1,0 +1,9 @@
+requests
+pyshp
+shapely
+pyproj
+rasterio
+pyogrio
+matplotlib
+python-dotenv
+boto3

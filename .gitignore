@@ -1,0 +1,31 @@
+# Credentials — never commit
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Downloaded outputs (can be large GeoTIFFs)
+output/
+
+# Debug/scratch scripts
+_inspect_dem.py
+_check_ot.py
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
