@@ -1,0 +1,20 @@
+# Normalize line endings automatically
+* text=auto
+
+# Python and text files → LF
+*.py   text eol=lf
+*.md   text eol=lf
+*.txt  text eol=lf
+*.env  text eol=lf
+*.example text eol=lf
+
+# Windows batch scripts → CRLF
+*.bat  text eol=crlf
+
+# Binaries — no line-ending conversion
+*.tif  binary
+*.tiff binary
+*.jp2  binary
+*.png  binary
+*.jpg  binary
+*.pdf  binary
