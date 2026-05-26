@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Lapwing" width="220"/>
+</p>
+
 # Lapwing
 
 Sentinel-2 satellite imagery downloader and analyst for agricultural field boundaries. Give it a shapefile, get back clipped GeoTIFFs — RGB true-colour, NDVI, NDWI, False Color, and elevation (DEM).
