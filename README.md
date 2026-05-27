@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Lapwing" width="220"/>
+  <img src="assets/lapwing.png" alt="Lapwing" width="220"/>
 </p>
 
 # Lapwing
